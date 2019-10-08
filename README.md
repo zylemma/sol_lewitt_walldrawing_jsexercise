@@ -1,0 +1,2 @@
+# sol_lewitt_walldrawing_jsexercise
+practice javascript
